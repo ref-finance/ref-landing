@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://ref.finance/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Ref Finance"
 theme = "hugo-paper"
