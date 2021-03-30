@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ref.finance/categories/</loc>
+    <loc>https://ref.finance/posts/intro-ref-finance/</loc>
+    <lastmod>2021-03-29T17:14:44+00:00</lastmod>
+  </url><url>
+    <loc>https://ref.finance/posts/</loc>
+    <lastmod>2021-03-29T17:14:44+00:00</lastmod>
   </url><url>
     <loc>https://ref.finance/</loc>
+    <lastmod>2021-03-29T17:14:44+00:00</lastmod>
+  </url><url>
+    <loc>https://ref.finance/categories/</loc>
   </url><url>
     <loc>https://ref.finance/tags/</loc>
   </url>
