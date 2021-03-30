@@ -1,0 +1,19 @@
+baseURL: "https://ref.finance/"
+languageCode: "en-us"
+title: "Ref Finance"
+theme: "hugo-paper"
+
+menu:
+        main:
+          - name: "App"
+            identifier: "app"
+            url: "https://app.ref.finance"
+
+params:
+  title: "Test"
+  homeInfoParams:
+     Title: Ref Finance
+     Content: Open Finance on NEAR Protocol
+     buttons:
+             - name: App
+               url: "https://app.ref.finance"
