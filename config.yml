@@ -1,7 +1,11 @@
 baseURL: "https://ref.finance/"
 languageCode: "en-us"
 title: "Ref Finance"
-theme: "hugo-paper"
+theme: "PaperMod"
+
+minify:
+        disableXML: true
+        minifyOutput: true
 
 menu:
         main:
@@ -10,10 +14,13 @@ menu:
             url: "https://app.ref.finance"
 
 params:
-  title: "Test"
+  env: production
+  title: "Ref Finance"
+  description: "Open Finance on NAER Protocol"
+  
   homeInfoParams:
-     Title: Ref Finance
-     Content: Open Finance on NEAR Protocol
+     Title: "Ref Finance"
+     Content: "Open Finance on NEAR Protocol"
      buttons:
              - name: App
                url: "https://app.ref.finance"
