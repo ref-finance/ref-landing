@@ -14,10 +14,8 @@
       
       <guid>https://ref.finance/posts/intro-ref-finance/</guid>
       <description>Checkout the app here
-Ref Finance is a multi purpose Decentralized Finance (DeFi) platform on NEAR Protocol.
-Bringing together work of the community to provide decentralized exchange, lending and more financial functionality in the future.
-Decentralized Finance has seen major growth on the platforms like Ethereum, benefitting from huge number of assets available there. Smart contracts allowed to create novel ways to manage assets which were unimaginable before.
-At the same time, success of Ethereum is also bringing brought the platform to the state where only individuals and institutions with a lot of money can participate.</description>
+Ref Finance is a community-led, multi-purpose Decentralized Finance (DeFi) platform built on NEAR Protocol. Ref combines several core components: a decentralized exchange, lending, a synthetic asset issuer, and more -— into a single, synchronous DeFi stack.
+Ref will take full advantage of NEAR’s low fees ($0.005 per swap), one-to-two second finality, and WebAssembly-based runtime (hello, Rust smart contracts!) to rival even CEX costs and speeds and become a powerful addition to the increasingly multi-chain DeFi ecosystem.</description>
     </item>
     
   </channel>
