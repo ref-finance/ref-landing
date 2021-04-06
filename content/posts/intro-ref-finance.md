@@ -7,30 +7,20 @@ draft: false
 
 [Checkout the app here](https://app.ref.finance)
 
-Ref Finance is a multi purpose Decentralized Finance (DeFi) platform on [NEAR Protocol](https://near.org).
+Ref Finance is a community-led, multi-purpose Decentralized Finance (DeFi) platform built on [NEAR Protocol](https://near.org). Ref combines several core components: a decentralized exchange, lending, a synthetic asset issuer, and more -— into a single, synchronous DeFi stack.
 
-Bringing together work of the community to provide decentralized exchange, lending and more financial functionality in the future.
+Ref will take full advantage of NEAR’s low fees ($0.005 per swap), one-to-two second finality, and WebAssembly-based runtime (hello, Rust smart contracts!) to rival even CEX costs and speeds and become a powerful addition to the increasingly multi-chain DeFi ecosystem.
 
-Decentralized Finance has seen major growth on the platforms like Ethereum, benefitting from huge number of assets available there. Smart contracts allowed to create novel ways to manage assets which were unimaginable before.
+Using the recently launched Rainbow Bridge (NEAR <> ETH), traders can utilize the billions of dollars in ERC-20-compliant assets from Ethereum, and eventually, from any chain (BSC, Polygon/Matic, Cosmos/IBC, and others) on NEAR.
 
-At the same time, success of Ethereum is also bringing brought the platform to the state where only individuals and institutions with a lot of money can participate.
+Ref Finance’s first product is an automated market maker (AMM). It is similar to Uniswap, with a few changes:
+ - Multiple pools in a single contract. Traders can trade across pools atomically in a single transaction.
+ - Customizable LP fees per pool. LPs can charge higher fees for illiquid or highly volatile tokens.
+ - Referral fees for swaps, currently set at 1 bps. Developers can earn rewards for building UIs and other applications on top of Ref Finance.
 
-Something that is untithesis of Open Web and Decentralized Finance.
+The Ref Finance community is planning to launch a DAO on NEAR (using Sputnik DAO) to facilitate future development, upgrades, and community building. The DAO’s treasury will receive 4 bps from each swap.
 
-Ref Finance, together with other platforms on NEAR, is aiming to reverse this.
+The DAO will be governed by the $REF token, which will be distributed to LPs, developers, and users of the platform. The distribution details and mechanisms will be described in subsequent posts. 
 
-With fraction of cents fees, 1 second finality and ability to evolve faster due to better development environment on NEAR, Ref Finance is aiming to become the core DeFi component of the future.
-
-Rainbow Bridge recently launched to connect NEAR and Ethereum will provide ability for users of Ethereum to come and participate in NEAR's economy.
-
-Currently Ref Finance launching with just an automated market maker. The basis of it is very similar to Uniswap, with few changes:
- - Multiple pools are bundled in one contract. Single swap transaction can trade across many of them atomically.
- - Each pool can have it's own LP fees. Allowing LPs to customize pools for rare or highly volatile tokens
- - 1 bps goes to referrer of the swap transaction. This is done to incentivize UI runners and other applications using the Ref Finance
-
-Additionally, Ref Finance community is planning to launch a DAO (using [Spuntik DAO](https://sputnik.fund)) to faciliate future development, upgrades and community building.
-
-This DAO will be receiving 4bps of the swaps.
-
-The plan for DAO to launch token that will allow to incentivize LPs, developers and users on the platform. More details on this will be in the subsequent posts.
+If you’d like to get involved in the $REF finance community and follow along for updates, please join our [Telegram](https://t.me/ref_finance)!
 
